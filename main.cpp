@@ -1,5 +1,6 @@
 #include <stdlib.h>
 #include <iostream>
+#include <unistd.h>
 #include "wave_reader.h"
 #include "transmitter.h"
 
